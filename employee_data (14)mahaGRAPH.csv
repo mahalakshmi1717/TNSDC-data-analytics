@@ -1,0 +1,15 @@
+﻿GenderCode,(All),,,,
+,,,,,
+Count of FirstName,Column Labels,,,,
+Row Labels,HIGH,LOW,MED,VERY HIGH,Grand Total
+BPC,30,34,85,1,150
+CCDR,33,47,65,,145
+EW,35,41,78,,154
+MSC,26,39,92,,157
+NEL,36,41,77,,154
+PL,41,33,69,,143
+PYZ,41,41,75,,157
+SVG,42,43,82,,167
+TNS,34,45,71,,150
+WBL,38,34,84,,156
+Grand Total,356,398,778,1,1533
